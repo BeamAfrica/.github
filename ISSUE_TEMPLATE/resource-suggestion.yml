@@ -1,0 +1,41 @@
+name: Resource Suggestion
+description: Suggest a developer resource to add to the resources repo
+labels: ["resource"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Know a great resource for African Bitcoin/Stacks developers? Suggest it here.
+  - type: input
+    id: resource-name
+    attributes:
+      label: Resource Name
+      placeholder: e.g. Clarity Book
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+      placeholder: https://...
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Bitcoin
+        - Lightning
+        - Stacks
+        - Guides
+        - Open Source
+    validations:
+      required: true
+  - type: textarea
+    id: why-useful
+    attributes:
+      label: Why is this useful?
+      description: Brief explanation of why this resource should be included
+    validations:
+      required: true
