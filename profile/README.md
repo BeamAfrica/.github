@@ -9,7 +9,7 @@ We combine structured cohorts, Superteam-style hackathons, "Code to Earn" sessio
 ### Connect
 - **Website**: https://beam-africa-theta.vercel.app/
 - **Twitter / X**: [@beamAfricaBuild](https://x.com/beamAfricaBuild)
-- **Discord**: [Join our Discord](https://discord.gg/[your-discord-link]) *(add once created)*
-- **Email**: [hello@beamafricabuilders.com](mailto:hello@beamafricabuilders.com) or prutotech@gmail.com
+- **Discord**: [Join our Discord](https://discord.gg/[your-discord-link])
+- **Email**: [hello@beamafricabuilders.com](mailto:hello@beamafricabuilders.com)
 
 ---
