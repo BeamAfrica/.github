@@ -1,6 +1,6 @@
-# LAB GitHub Community Files
+# Jetic GitHub Community Files
 
-This repository contains the shared community health files for the Let Africa Build GitHub organization.
+This repository contains the shared community health files for the Jetic GitHub organization.
 
 These files define:
 
@@ -10,6 +10,6 @@ These files define:
 - support information
 - issue templates
 
-For the public LAB organization homepage, see:
+For the public Jetic organization homepage, see:
 
 - [`profile/README.md`](profile/README.md)
