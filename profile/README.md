@@ -1,10 +1,10 @@
 *Agentic Context-Aware API Behavior Testing & Simulation tool.*
 
-[![Website](https://img.shields.io/badge/Website-jetic.dev-orange)](https://jetic.dev)
+[![Website](https://img.shields.io/badge/Website-jetic.dev-orange)](https://jetic.online)
 [![Twitter](https://img.shields.io/badge/Twitter-%40jetic-orange)](https://twitter.com/jetic_ai)
 [![GitHub](https://img.shields.io/badge/GitHub-%40jetic-orange)](https://github.com/jeticlabs)
 [![Discord](https://img.shields.io/badge/Discord-Community-orange)](https://discord.gg/jeticlabs)
-[![Documentation](https://img.shields.io/badge/Docs-Read%20the%20Docs-orange)](https://docs.jetic.dev)
+[![Documentation](https://img.shields.io/badge/Docs-Read%20the%20Docs-orange)](https://docs.jetic.online)
 
 # Welcome to Jetic 🚀
 
