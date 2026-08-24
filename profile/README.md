@@ -1,10 +1,6 @@
-# Jetic Inc.
+### Welcome to **Jetic** 🚀
 
-### Agentic Context-Aware API Behavior Testing & Simulation Platform
-
-Welcome to **Jetic** 🚀
-
-Jetic is building the next generation of API testing: an AI-native platform that understands application behavior, discovers workflows, maintains execution context, and autonomously simulates real-world business processes.
+Jetic is building the next generation of API testing: an AI-native tooling that understands application behavior, discovers workflows, maintains execution context, and autonomously simulates real-world business processes.
 
 Unlike traditional API tools that focus on individual requests, Jetic builds behavioral graphs, manages workflow memory, and verifies how systems actually behave in production-like scenarios.
 
