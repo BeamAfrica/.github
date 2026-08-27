@@ -1,24 +1,31 @@
-# Support
+# Security Policy & Support
 
-If you need help with the LAB ecosystem, use the following channels where appropriate.
+We take the security of Jetic and the applications tested with Jetic very seriously. If you discover a security vulnerability, please follow the guidelines below to report it to us responsibly.
 
-## General Questions
+## Security Vulnerability Reporting
 
-For general information about Let Africa Build, visit:
-https://www.letafricabuild.com
+**Please do not report security vulnerabilities through public GitHub issues.**
 
-For general enquiries and tech support about Let Africa Build
-- hello@letafricabuild.com
-- support@letafricabuilod.com
+Instead, please report security vulnerabilities via email to:
+- **`security@jetic.online`** or **`hello@jetic.online`**
 
-## Builders Fund
+Please include in your report:
+- A clear description of the vulnerability.
+- Steps to reproduce or proof-of-concept code.
+- Potential impact assessment.
 
-For questions related to the LAB Open Source Builders Fund, refer to the fund repository and official builder application page.
+We will acknowledge receipt of your vulnerability report within 48 hours and provide regular updates regarding remediation.
 
-## GitHub Contributions
+## Community & Support Channels
 
-For documentation or repository-related issues, open an issue in the relevant repository if a matching issue template is available.
+For non-security questions, general enquiries, or technical support regarding Jetic:
 
-## Community
+- **Website**: [jetic.online](https://jetic.online)
+- **Documentation**: [docs.jetic.online](https://docs.jetic.online)
+- **Community Discord**: [Join Discord](https://discord.gg/jeticlabs)
+- **GitHub Issues**: Open an issue for bug reports or feature requests.
+- **Email Enquiries**: `hello@jetic.online`
 
-Builders and contributors participating in LAB programs should follow the official LAB communication channels and program instructions.
+## Code of Conduct
+
+All security researchers and community participants are expected to adhere to our [Code of Conduct](CODE_OF_CONDUCT.md).
